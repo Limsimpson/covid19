@@ -2,12 +2,12 @@
   "compilerOptions": {
     "allowJs": true,
     "target": "ES5",
-    "outDir": "./build",
+    "outDir": "./dist",
     "moduleResolution": "Node",
     "lib": ["ES2015", "DOM", "DOM.Iterable"],
     "noImplicitAny": true,
     "typeRoots": ["./node_modules/@types", "./types"]
   },
-  "include": ["./src/**/*", "example"],
-  "exclude": ["node_modules", "build"]
+  "include": ["./src/**/*"],
+  "exclude": ["./node_modules", "./dist"]
 }
