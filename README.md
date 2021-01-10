@@ -19,6 +19,6 @@
   - [x] 가능한 구체적인 타입으로 타입 정의
 
 3. 프로젝트 환경 구성
-  - [] babel, eslint, prettier 등의 환경 설정
+  - babel, eslint, prettier 등의 환경 설정
 
 4. 외부 라이브러리 모듈화
